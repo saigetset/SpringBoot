@@ -1,0 +1,11 @@
+com:
+   emp:
+      id: 1
+      name: vamsi
+      age: 25
+      company: Google
+   stu:
+      id: 2
+      name: sai
+      age: 23
+      school: govt

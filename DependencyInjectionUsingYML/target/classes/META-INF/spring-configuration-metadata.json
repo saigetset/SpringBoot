@@ -1,0 +1,67 @@
+{
+  "groups": [
+    {
+      "name": "com.emp",
+      "type": "com.sai.Employee.Employee",
+      "sourceType": "com.sai.Employee.Employee"
+    },
+    {
+      "name": "com.stu",
+      "type": "com.sai.Student.Student",
+      "sourceType": "com.sai.Student.Student"
+    }
+  ],
+  "properties": [
+    {
+      "name": "com.emp.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sai.Employee.Employee"
+    },
+    {
+      "name": "com.emp.company",
+      "type": "java.lang.String",
+      "sourceType": "com.sai.Employee.Employee"
+    },
+    {
+      "name": "com.emp.doj",
+      "type": "java.time.LocalDateTime",
+      "sourceType": "com.sai.Employee.Employee"
+    },
+    {
+      "name": "com.emp.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sai.Employee.Employee"
+    },
+    {
+      "name": "com.emp.name",
+      "type": "java.lang.String",
+      "sourceType": "com.sai.Employee.Employee"
+    },
+    {
+      "name": "com.emp.std",
+      "type": "com.sai.Student.Student",
+      "sourceType": "com.sai.Employee.Employee"
+    },
+    {
+      "name": "com.stu.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sai.Student.Student"
+    },
+    {
+      "name": "com.stu.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.sai.Student.Student"
+    },
+    {
+      "name": "com.stu.name",
+      "type": "java.lang.String",
+      "sourceType": "com.sai.Student.Student"
+    },
+    {
+      "name": "com.stu.school",
+      "type": "java.lang.String",
+      "sourceType": "com.sai.Student.Student"
+    }
+  ],
+  "hints": []
+}
